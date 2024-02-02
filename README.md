@@ -1,2 +1,2 @@
 # git
-some useful git commends 
+some useful git commends .git
