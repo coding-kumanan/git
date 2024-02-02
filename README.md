@@ -1,2 +1,2 @@
 # git
-Git commends 
+some useful git commends 
